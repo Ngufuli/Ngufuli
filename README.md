@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Nicodemus Ngufuli
 
 <h2> 🚀 &nbsp;TOOLS</h2>
 <p align="left">
 
-           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45"/>
           
           
@@ -37,7 +36,6 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 
-            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="45" height="45"/>
@@ -48,3 +46,5 @@
           
                                       
 </p>
+
+<a href="https://github.com/Ngufuli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngufuli&layout=compact&theme=buefy&hide_border=true" /></a>
